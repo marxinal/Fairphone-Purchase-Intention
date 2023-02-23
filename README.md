@@ -57,6 +57,7 @@ Wicherts, J. M., & Dolan, C. V. (2010). Measurement invariance in confirmatory f
 ## Example Plots from the Project
 
 
+<img width="676" alt="Fairphone_image" src="https://user-images.githubusercontent.com/94328819/221056848-95920635-1ee5-4f63-98bf-827d9ae39109.png">
 
 
 
