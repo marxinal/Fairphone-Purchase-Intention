@@ -3,6 +3,8 @@ Investigating Fairphone's customers purchase intentions.
 
 <img width="676" alt="Fairphone_image" src="https://user-images.githubusercontent.com/94328819/221056848-95920635-1ee5-4f63-98bf-827d9ae39109.png">
 
+Note: The code cannot be displayed due to privacy reasons, likewise most of the plots from the projects.
+
 ## Project Description and Initiation
 Fairphone, a smartphone manufacturer focused on creating sustainable smartphones, wants to gain insight into their marketing strategies across different country customer bases and important factors that influence purchase intention in order to determine their most effective marketing approach.
 
@@ -56,8 +58,20 @@ Wicherts, J. M., & Dolan, C. V. (2010). Measurement invariance in confirmatory f
 
 ## Example Plots from the Project
 
+### Exploratory Analysis - Distribution of Purchase Intentions (Dependent Variable)
 
-<img width="676" alt="Fairphone_image" src="https://user-images.githubusercontent.com/94328819/221056848-95920635-1ee5-4f63-98bf-827d9ae39109.png">
+<img width="654" alt="Screenshot 2023-02-24 at 00 48 34" src="https://user-images.githubusercontent.com/94328819/221057837-54782a05-ab15-40fe-b194-43673e2ddf63.png">
+
+
+### Zoom In on Results from Measurement Invariance
+<img width="675" alt="MIN" src="https://user-images.githubusercontent.com/94328819/221057899-ea6a55bb-4f47-45d9-9230-60fe5f6f28b4.png">
+
+
+### Preview of one of the Network Architectures (Netherlands) 
+
+<img width="647" alt="Network_NL" src="https://user-images.githubusercontent.com/94328819/221057951-1146622c-3bac-4c0e-921c-15ae4ba24f20.png">
+
+
 
 
 
