@@ -49,6 +49,11 @@ Lastly, in order to determine which factors significantly predict purchase inten
 2. There were very few predictors that were consistent across all countries. With green product interest being an important predictor in 3 of the 4 countries
 3. The clients were very positive about the contact and the deliverables of the project. Combined with a grade of 9/10, the consultancy case was deemed a successful project.
 
+## Relevant Skills Employed
+- Programming in R(Studio)
+- Communication with stakeholder, consultancy skills, report writing, presentation
+- Translating business ideas into statistical and machine learning objectives
+
 ## References
 
 Mellenbergh, G. J. (1989). Item bias and item response theory. International journal of educational research, 13(2), 127-143.
