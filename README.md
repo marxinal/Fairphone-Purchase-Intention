@@ -47,7 +47,7 @@ Lastly, in order to determine which factors significantly predict purchase inten
 
 1. The measurement invariance analysis, as well as the network analysis, indicated that there are differences in purchase intention and factors influencing purchase intention between the 4 different countries.
 2. There were very few predictors that were consistent across all countries. With green product interest being an important predictor in 3 of the 4 countries
-3. The clients were very positive about the contact and the deliverables of the project. Combined with a grade of 9/10, the consultancy case was deemed a successful project.
+3. The clients were very positive about the contact and the deliverables of the project, thus consultancy case was deemed a successful project.
 
 ## Relevant Skills Employed
 - Programming in R(Studio)
