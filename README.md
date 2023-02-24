@@ -22,7 +22,7 @@ Fairphone, a smartphone manufacturer focused on creating sustainable smartphones
 2. Deliver a report and well-structured code notebook with methodology and key takeaways from the different analyses
 
 **Learning goals**
-1. practice being responsible for a data-driven consultancy business case
+1. Building up statistical and machine learning models from a business objective
 2. Display skills in various forms of statistical analysis
 3. Display communicative, collaborative and presentation skills
 
