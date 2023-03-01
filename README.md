@@ -13,10 +13,10 @@ Fairphone, a smartphone manufacturer focused on creating sustainable smartphones
 Dependent variable: Purchase Intention
 
 Some of the predictor/independent variables: 
-- Emotions of the customers (e.g. how much trust/joy/guilt in relation to purchasing a Fairphone?)
-- Technical characteristics (e.g. how much is camera/appearance/price important when purchasing a Fairphone?) 
-- Environmental Identity (e.g. how much does the customer perceive themselves to be an environmentalist?)
-- Demographics (e.g. gender and age, but also how much is the customer interested in promoting social change vs social tradition?)
+- _Emotions_ (e.g. how much trust/joy/guilt in relation to purchasing a Fairphone?)
+- _Technical characteristics_ (e.g. how much is camera/appearance/price important when purchasing a Fairphone?) 
+- _Environmental Identity_ (e.g. how much does the customer perceive themselves to be an environmentalist?)
+- _Demographics_ (e.g. gender and age, but also how much is the customer interested in promoting social change vs social tradition?)
 
 **Analyses**
 1. A measurement invariance analysis - Fairphone would like to gain insight into their scales and variables used. Measurement invariance is important to decide whether the scales are comparable across the countries.
