@@ -18,7 +18,7 @@ Some of the predictor/independent variables:
 - _Environmental Identity_ (e.g. how much does the customer perceive themselves to be an environmentalist?)
 - _Demographics_ (e.g. gender and age, but also how much is the customer interested in promoting social change vs social tradition?)
 
-**Analyses**
+**Main Analyses**
 1. A measurement invariance analysis - Fairphone would like to gain insight into their scales and variables used. Measurement invariance is important to decide whether the scales are comparable across the countries.
 
 2. A network analysis - Additionally, Fairphone is interested in looking at the purchase intentions and environmental variables from a network perspective.
@@ -42,7 +42,7 @@ Some of the predictor/independent variables:
 - Data was provided by Fairphone, in collaboration with the social psychology department of the University of Amsterdam (UvA). The data from surveys across 4 different countries were provided to be analyzed.
 
 **Exploratory data analysis**
-- A series of plots using ggplot were employed to explore the available data. Furthermore, analyses on outliers, missing data, correlations and reliability were conducted to ensure data was filtered properly and did not contain unnecessary or faulty entries.
+- A series of plots using ggplot were employed to explore the available data. Furthermore, analyses on outliers, missing data, correlations, item response theory (IRT), exploratory and confirmatory factor analysis (EFA & CFA), and reliability were conducted to ensure data was filtered properly and did not contain unnecessary or faulty entries.
 
 **Measurement invariance analysis** 
 - Using approaches as indicated by Mellenbergh (1989) and Wicherts & Dolan (2010), measurement invariance was analyzed. Through this analysis, it could be determined whether the purchase tendencies are similar across countries or if they differed.
